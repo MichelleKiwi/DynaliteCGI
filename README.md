@@ -9,8 +9,10 @@ First You need to have a Web Server that Hosts ASP.Net Web Applications.
 
 Instructions To Use with Internet Information Services (IIS):
 
-Create a folder inside where IIS is hosting (default is C:\Inetpub\wwwroot\) to place the files
+Create a folder inside where IIS is hosting (default is C:\Inetpub\wwwroot\).
+
 Copy the files from the zip file to the folder
+
 Inside the (Internet Information Services (IIS) Manager) convert the folder to a Web Application
 
 
