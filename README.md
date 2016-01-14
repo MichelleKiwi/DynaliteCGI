@@ -1,7 +1,7 @@
 # DynaliteCGI
 A CGI like (C# and ASP.Net) Web Application that sends and receives 8 byte DyNet Messages to / from the Philips Dynalite home automation system
 
-I used Windows with IIS and .Net 4.6 Installed
+I used Windows with IIS and .Net 4.6 Installed.
 I used the Philips Dynalite DDNG100BT as the the DyNet GateWay (configured with Passive TCP and UDP enabled)
 
 First You need to have a Web Server that Hosts ASP.Net Web Applications.
